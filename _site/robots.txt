@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://tmfoltz.github.io/sitemap.xml
